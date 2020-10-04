@@ -1,5 +1,5 @@
 # 159251-SoftwareEng
 
-https://img.shields.io/github/repo-size/jjfleet/159251-Tutorial1
+![GitHub repo size](https://img.shields.io/github/repo-size/jjfleet/159251-Tutorial1/README.md)
 
 ID:15390549
